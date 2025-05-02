@@ -26,6 +26,8 @@ In addition to design leadership, I enjoy experimenting with **no-code tools lik
 #### 🧠 Design & Prototipagem
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?&logo=adobexd)
+![Sketch](https://img.shields.io/badge/-Sketch-000?&logo=sketch)
+![Miro](https://img.shields.io/badge/-Miro-000?&logo=miro)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobeillustrator)
 
