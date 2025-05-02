@@ -21,46 +21,30 @@ In addition to design leadership, I enjoy experimenting with **no-code tools lik
 ## 💻 Tools & Tech Stack
 
 
-#### 🧠 Design & Prototyping
-<img src="https://cdn.simpleicons.org/figma/black" height="20"/> Figma &nbsp;
-<img src="https://cdn.simpleicons.org/adobexd/black" height="20"/> Adobe XD &nbsp;
-<img src="https://cdn.simpleicons.org/adobephotoshop/black" height="20"/> Photoshop &nbsp;
-<img src="https://cdn.simpleicons.org/adobeillustrator/black" height="20"/> Illustrator &nbsp;
+### 🚀 Tech Stack
 
-- Miro, Whimsical, Overflow
+#### 🧠 Design & Prototipagem
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?&logo=adobexd)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobeillustrator)
 
-#### 💻 Front-End Development
-<img src="https://cdn.simpleicons.org/html5/black" height="20"/> HTML5 &nbsp;
-<img src="https://cdn.simpleicons.org/css3/black" height="20"/> CSS3 &nbsp;
-<img src="https://cdn.simpleicons.org/sass/black" height="20"/> SASS &nbsp;
-<img src="https://cdn.simpleicons.org/javascript/black" height="20"/> JavaScript &nbsp;
-<img src="https://cdn.simpleicons.org/jquery/black" height="20"/> jQuery &nbsp;
-<img src="https://cdn.simpleicons.org/react/black" height="20"/> React &nbsp;
+#### 💻 Desenvolvimento Front-End
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
 
-- Bootstrap, Tailwind CSS  
-- WordPress, Prestashop (temas e plugins)
+#### 🧰 CMS & Website Builders
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
+![Prestashop](https://img.shields.io/badge/-Prestashop-000?&logo=prestashop)
+![Webflow](https://img.shields.io/badge/-Webflow-000?&logo=webflow)
 
-#### 🧰 CMS & Builders
-<img src="https://cdn.simpleicons.org/wordpress/black" height="20"/> WordPress &nbsp;
-<img src="https://cdn.simpleicons.org/prestashop/black" height="20"/> Prestashop &nbsp;
-<img src="https://cdn.simpleicons.org/webflow/black" height="20"/> Webflow &nbsp;
-<img src="https://cdn.simpleicons.org/wix/black" height="20"/> Wix &nbsp;
-<img src="https://cdn.simpleicons.org/shopify/black" height="20"/> Shopify &nbsp;
-
-#### 🎨 Product Design Workflow
-- Design Systems, Wireframes, UI Kits  
-- User Research & Personas  
-- UX Writing, Accessibility  
-- Prototyping & User Flows  
-
-#### 🤝 Project & Collaboration
-<img src="https://cdn.simpleicons.org/notion/black" height="20"/> Notion &nbsp;
-<img src="https://cdn.simpleicons.org/trello/black" height="20"/> Trello &nbsp;
-<img src="https://cdn.simpleicons.org/jira/black" height="20"/> Jira &nbsp;
-<img src="https://cdn.simpleicons.org/asana/black" height="20"/> Asana &nbsp;
-<img src="https://cdn.simpleicons.org/slack/black" height="20"/> Slack &nbsp;
-<img src="https://cdn.simpleicons.org/github/black" height="20"/> GitHub &nbsp;
-<img src="https://cdn.simpleicons.org/git/black" height="20"/> Git &nbsp;
+#### 🤝 Ferramentas de Colaboração
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)
+![Trello](https://img.shields.io/badge/-Trello-000?&logo=trello)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira)
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=slack)
 
 ---
 
