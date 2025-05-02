@@ -52,5 +52,11 @@ In addition to design leadership, I enjoy experimenting with **no-code tools lik
 
 ## 🌐 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Notion&logoColor=white)](https://jusleysmaly.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jusley-smaly/)
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jusley-smaly/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://jusleysmaly.com/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jusley-smaly)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jusleysmaly.medium.com/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/jusleysmaly/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jusleysmaly/)
