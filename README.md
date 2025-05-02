@@ -1,5 +1,3 @@
-# jusleysmaly
-
 # 👋 Hi there
 
 I'm **Jusley Smaly**, a multidisciplinary **Product Designer** with a strong technical edge. I currently focus on crafting scalable design systems, clean user interfaces, and developer-friendly design processes.  
