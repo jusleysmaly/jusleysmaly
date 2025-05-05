@@ -3,7 +3,7 @@
 I'm **Jusley Smaly**, a multidisciplinary **Product Designer** with a strong technical edge. I currently focus on crafting scalable design systems, clean user interfaces, and developer-friendly design processes.  
 With a background that bridges UX/UI, branding, and frontend development, I bring a strategic and hands-on approach to solving complex digital challenges.
 
-> “Do, or do not. There is no ‘try.’” — Yoda
+> “Design, for me, is a field of translation — and the more we understand the languages ​​around us (technology, business, people), the more powerful our performance becomes.
 
 ---
 
